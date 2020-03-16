@@ -41,4 +41,21 @@ let style = {j|
     padding: 16px;
     border-radius: 0px 0px 12px 12px;
   }
+
+  .GlobalNavs {
+    padding: 2rem;
+  }
+
+  .NavsList > a{
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .NavsList-title {
+    font-weight: bold;
+  }
+  .NavsList {
+    border: 1px solid black;
+    padding: 1rem;
+  }
 |j};
